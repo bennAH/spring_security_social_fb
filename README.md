@@ -1,0 +1,3 @@
+Sample application with local accounts provided alongside facebook authentication using spring social.
+
+Not well structured ...
